@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/OguilhermeCost/glaserver/archive/refs/tags/v0.0.3.zip",
+	"newClientUrl" : "https://github.com/OguilhermeCost/glaserver/releases/download/0.0.3/GLAServer-Custom.zip",
 	"clientExecutable": "client.exe"
 }
